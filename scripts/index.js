@@ -10,7 +10,7 @@ const updateCity = async (city) => {
     weather: weather
   };
 };
-
+//Commits
 cityForm.addEventListener('submit', e => {
   // Prevent default action
   e.preventDefault();
